@@ -1,0 +1,251 @@
+id,price,Title,Genre,Score
+1,"€12,65",With Love... from the Age of Reason,Comedy|Romance,3.8
+2,"€18,08","End of the Affair, The",Drama,4.7
+3,"€17,87",Rage,Action|Crime|Thriller,3.9
+4,"€36,20",10 000 timmar,Comedy,4.1
+5,"€36,73",Cheech and Chong's Up in Smoke,Comedy,2.2
+6,"€19,05",Hard Ticket to Hawaii,Action|Comedy,2.1
+7,"€14,64",Gigi,Comedy,4.0
+8,"€31,95","Hawaiians, The",Drama,4.4
+9,"€27,69",Floundering,Comedy,3.8
+10,"€27,32",Night and the City,Film-Noir|Thriller,2.1
+11,"€26,83",Wild America,Adventure|Children,3.2
+12,"€25,74",Venus Beauty Institute (Vénus beauté),Comedy|Drama|Romance,3.9
+13,"€21,82","Unfinished Life, An",Drama,4.9
+14,"€23,86","Boys & Girl from County Clare, The (a.k.a. The Boys from County Clare)",Comedy|Musical|Romance,4.8
+15,"€31,73",Stuck,Horror|Thriller,3.6
+16,"€31,61","Hasty Heart, The",Drama,3.1
+17,"€28,96",Almost Heroes,Adventure|Comedy|Western,4.4
+18,"€39,15",Little Ashes,Drama,3.8
+19,"€39,48",Dolemite,Action|Comedy|Crime|Mystery|Thriller,4.9
+20,"€20,17",House III: The Horror Show,Horror,4.0
+21,"€23,23",Seven Swords (Chat gim),Action|Drama,4.2
+22,"€25,85",Zatoichi in Desperation (Shin Zatôichi monogatari: Oreta tsue) (Zatôichi 24),Action|Adventure|Drama,2.6
+23,"€38,34",Women of the Night (Yoru no onnatachi),Drama,4.7
+24,"€14,27","Honeymoon Killers, The",Crime|Thriller,2.4
+25,"€13,41",Fixed Bayonets!,Drama|War,2.3
+26,"€30,48","Driller Killer, The",Drama|Horror,3.6
+27,"€26,54",Mildred Pierce,Drama,3.7
+28,"€25,08",Monsieur Vincent,Drama,3.2
+29,"€25,67",Firstborn,Drama|Thriller,2.6
+30,"€24,94",Tango & Cash,Action|Comedy|Crime|Thriller,2.6
+31,"€15,13",Sunshine State,Drama,4.8
+32,"€34,11",Super Duper Alice Cooper,Documentary,4.0
+33,"€28,33",I am Von Höfler (Variation on Werther - Private Hungary 15),Documentary,2.9
+34,"€19,46","Sleeping Car, The",Comedy|Horror,4.2
+35,"€28,47",Bad Ronald,Drama|Horror|Thriller,4.8
+36,"€11,82",For the Birds,Animation|Children|Comedy,4.9
+37,"€39,03",Dorian Gray,Drama|Horror|Sci-Fi,2.3
+38,"€19,74","Royal Tenenbaums, The",Comedy|Drama,4.9
+39,"€23,13","Oh, Susanna!",Romance|Western,4.8
+40,"€28,73",Piglet's Big Movie,Animation|Children,2.9
+41,"€32,10",Unknown,Drama|Mystery|Thriller,4.3
+42,"€37,34",Jesus Christ Vampire Hunter,Action|Comedy|Horror|Musical,4.8
+43,"€19,56",Paradise,Drama,2.5
+44,"€24,69",Trust Me,(no genres listed),2.4
+45,"€33,59",From Hell It Came,Horror,5.0
+46,"€23,79",Full Metal Jacket,Drama|War,3.9
+47,"€34,98",Mission: Impossible II,Action|Adventure|Thriller,2.2
+48,"€27,59",Hum Aapke Hain Koun...!,Comedy|Drama|Musical,4.9
+49,"€13,12",Virginia's Run,Drama,2.1
+50,"€11,80",Ninja Assassin,Action|Crime|Drama|Thriller,4.8
+51,"€20,02",Spider-Man 2,Action|Adventure|Sci-Fi|IMAX,3.7
+52,"€15,51","Greening of Whitney Brown, The",Adventure,3.0
+53,"€10,92",Taxidermia,Comedy|Drama|Horror,3.7
+54,"€37,31",Princess Raccoon (Operetta tanuki goten),Comedy|Fantasy|Musical|Romance,3.8
+55,"€11,12",Graveyard Shift (Stephen King's Graveyard Shift),Horror|Thriller,4.8
+56,"€36,30",Die Hard: With a Vengeance,Action|Crime|Thriller,3.4
+57,"€26,35","Thief of Bagdad, The",Action|Adventure|Fantasy,2.6
+58,"€14,53",Metropolis,Animation|Sci-Fi,4.1
+59,"€26,40","Ninja, A Band of Assassins (Shinobi No Mono)",Action|Drama,3.0
+60,"€35,91",Faces,Drama,4.9
+61,"€39,13",Fawlty Towers (1975-1979),Comedy,2.6
+62,"€19,68",Rosalie Goes Shopping,Comedy,4.9
+63,"€16,57",Good Morning (Ohayô),Comedy,3.3
+64,"€36,34",Festival in Cannes,Drama,3.5
+65,"€29,13",Out of the Blue,Documentary,3.8
+66,"€36,35",Mafioso,Comedy|Crime|Drama,3.8
+67,"€17,79","Hurt Locker, The",Action|Drama|Thriller|War,3.5
+68,"€30,26",Gasland Part II,Documentary,2.2
+69,"€30,53",Wallace and Gromit in 'A Matter of Loaf and Death',Animation|Comedy,3.8
+70,"€35,58",Tin Man,Adventure|Fantasy|Sci-Fi,4.5
+71,"€11,69",The Stoker,Crime|Drama,2.8
+72,"€33,61","Nightmare City (a.k.a. City of the Walking Dead) (a.k.a. Invasión de los zombies atómicos, La) (Incubo sulla città contaminata)",Action|Horror,4.1
+73,"€39,42",Fear of Flying,Action|Thriller,3.3
+74,"€32,33",Blood Shot,Action|Comedy|Horror,2.6
+75,"€18,22","Petrified Forest, The",Crime|Drama|Romance,4.0
+76,"€28,88",California Conquest,Adventure|Romance|Western,3.5
+77,"€16,90",Coming Home (Gui lai),Drama,3.5
+78,"€35,33","Detonator, The",Action|Thriller,3.0
+79,"€33,35","Grudge 2, The",Drama|Horror|Mystery|Thriller,2.9
+80,"€19,48",Decision Before Dawn,Drama|War,2.1
+81,"€37,22",Eight Below,Action|Adventure|Drama|Romance,2.6
+82,"€20,40",Shara (Sharasojyu),Drama,2.6
+83,"€37,26",Children of the Corn: Revelation,Horror|Thriller,4.6
+84,"€35,80",Blind Date,Comedy|Romance,4.3
+85,"€16,33",Female Prisoner #701: Scorpion (Joshuu 701-gô: Sasori),Crime|Drama|Thriller,4.9
+86,"€14,89","Anthropophagus: The Grim Reaper (Antropophagus) (Man Beast) (Savage Island, The) (Zombie's Rage, The)",Horror,3.9
+87,"€35,99",Codependent Lesbian Space Alien Seeks Same,Comedy|Romance|Sci-Fi,3.0
+88,"€27,81",Hello I Must Be Going,Comedy|Drama|Romance,3.1
+89,"€20,95","Borrower, The",Comedy|Horror|Sci-Fi,3.9
+90,"€31,75",Kinetta,Drama,4.2
+91,"€31,06",Pineapple Express,Action|Comedy|Crime,3.2
+92,"€29,24",Finding Amanda,Comedy|Drama,2.4
+93,"€32,15",Starlet,Drama,3.1
+94,"€35,36","Midsummer Night's Dream, A",Comedy|Fantasy|Romance,4.7
+95,"€28,96",Wings of Honneamise (Ôritsu uchûgun Oneamisu no tsubasa),Animation|Drama|Sci-Fi|War,3.8
+96,"€27,97","Proposal, The",Comedy|Romance,4.9
+97,"€27,14",Maid of Salem,Drama,2.7
+98,"€18,36",Bad Teacher,Comedy,3.8
+99,"€23,00","Same River Twice, The",Documentary,4.6
+100,"€37,54","Drop, The",Crime|Drama|Thriller,4.2
+101,"€26,68",Young & Beautiful,Drama,3.1
+102,"€16,01",The Story of Asya Klyachina,Drama|Romance,3.2
+103,"€18,49",Disgrace,Drama,3.8
+104,"€18,65","Intended, The",Drama|Thriller,3.6
+105,"€23,23",Shallow Grave,Comedy|Drama|Thriller,4.7
+106,"€30,46",Sleepaway Camp,Horror,2.2
+107,"€10,43","Hypothesis of the Stolen Painting, The (L'hypothèse du tableau volé)",Drama|Mystery,3.0
+108,"€13,50",Mama's Boy,Comedy|Drama,2.8
+109,"€31,41",Open Season,Adventure|Animation|Children|Comedy|IMAX,3.4
+110,"€19,04",Frenchmen 2,Comedy|Romance,2.6
+111,"€15,90",Angels Fall,Drama|Romance|Thriller,4.2
+112,"€35,79",Vampire Girl vs. Frankenstein Girl (Kyûketsu Shôjo tai Shôjo Furanken),Action|Comedy|Horror|Romance,4.1
+113,"€26,55",Chill,Horror|Mystery|Thriller,3.2
+114,"€23,10",Lucky,Comedy|Crime|Romance,3.8
+115,"€16,35","10th Kingdom, The",Adventure|Comedy|Fantasy,2.8
+116,"€36,87",Midnight Mary,Crime|Drama|Romance,2.4
+117,"€16,01","My Beautiful Dacia (Dacia, dragostea mea)",Documentary,3.3
+118,"€21,09",Thoughtcrimes,Action|Crime|Drama,2.9
+119,"€39,61",Lucky Numbers,Comedy|Drama,2.7
+120,"€29,00",Hamlet (Gamlet),Drama,2.9
+121,"€29,44",Close-Up (Nema-ye Nazdik),Drama,4.3
+122,"€23,21",Awakenings,Drama|Mystery,2.7
+123,"€34,66",Bug,Drama|Horror|Thriller,2.6
+124,"€35,43","Great Buck Howard, The",Comedy,4.4
+125,"€13,57","Englishman Who Went Up a Hill But Came Down a Mountain, The",Comedy|Romance,2.4
+126,"€39,35","Football Factory, The",Action|Drama,2.8
+127,"€14,06",Painted Fire (Chihwaseon),Drama,3.4
+128,"€16,42",Treeless Mountain,Drama,3.1
+129,"€27,97",Betty,Drama,3.3
+130,"€31,21","Single Girl, A (Fille seule, La)",Drama,4.0
+131,"€25,23",End of the Spear,Drama,4.6
+132,"€39,67",Forever Hardcore: The Documentary,Documentary,2.6
+133,"€24,01","Employment, The (Empleo, El)",Animation|Comedy|Drama,4.6
+134,"€21,28",Bluebeard (Barbe Bleue),Fantasy,3.4
+135,"€35,11","Charter Trip, The (a.k.a. Package Tour, The) (Sällskapsresan)",Comedy,3.5
+136,"€17,71",Lawless Range,Western,4.3
+137,"€12,01",Camel Spiders,Horror|Sci-Fi,4.8
+138,"€20,27",At Home by Myself... with You,Comedy|Romance,3.7
+139,"€34,32",Left Behind: World at War,Drama,4.7
+140,"€11,63","Lost Son, The",Drama,3.2
+141,"€31,58",The Third Half,Drama|Romance,3.1
+142,"€25,93","Woman's Face, A (En kvinnas ansikte) ",Drama,4.2
+143,"€24,01","Foreign Affair, A (2 Brothers & a Bride)",Comedy|Drama|Romance,2.6
+144,"€27,32",Over Her Dead Body,Comedy|Fantasy|Romance,3.2
+145,"€36,03",Love & Human Remains,Comedy|Drama,4.1
+146,"€28,85",,Dragon Ball: The Path to Power (Doragon bôru: Saikyô e no michi),Comedy
+147,"€34,64",Blood Ties,Crime|Drama|Thriller,4.2
+148,"€24,92",Beach Blanket Bingo,Comedy|Musical,4.6
+149,"€31,56",Religulous,Comedy|Documentary,2.6
+150,"€37,65","Bell, Book and Candle",Comedy|Fantasy|Romance,4.2
+151,"€32,44",Loggerheads,Drama,3.3
+152,"€31,25",Investigation of a Citizen Above Suspicion (Indagine su un cittadino al di sopra di ogni sospetto),Crime|Drama|Thriller,3.1
+153,"€23,27",Texas Chainsaw 3D,Horror|Mystery|Thriller,3.8
+154,"€16,09",Instructions Not Included (No se Aceptan Devoluciones),Comedy|Drama,3.0
+155,"€21,00",Road Kill (a.k.a. Road Train),Horror|Sci-Fi|Thriller,2.5
+156,"€25,84",If I Stay,Drama,3.1
+157,"€34,41","Golden Age, The (Âge d'Or, L')",Comedy|Drama|Romance,3.8
+158,"€35,73","Man Who Wasn't There, The",Crime|Drama,2.5
+159,"€33,30",Mask,Drama,4.3
+160,"€16,91",Doctors' Wives,Drama,2.8
+161,"€30,73",Attack of the Mushroom People (Matango),Fantasy|Horror|Sci-Fi|Thriller,4.4
+162,"€14,47",Panic in the Streets,Crime|Drama|Film-Noir|Thriller,2.1
+163,"€25,99",Gui Si (Silk),Drama|Horror|Mystery|Sci-Fi|Thriller,4.2
+164,"€35,66","Speed Of Thought, The",Sci-Fi|Thriller,4.6
+165,"€36,91",De nieuwe Wildernis,Documentary,4.6
+166,"€11,99",Delta Force 2 (Delta Force 2: The Colombian Connection),Action|Adventure|Thriller|War,3.5
+167,"€33,89",Princess Protection Program,Children|Drama,3.7
+168,"€31,09",Chizuko's Younger Sister (Futari),Drama,2.8
+169,"€18,68",Call Her Savage,Drama,3.2
+170,"€21,56","Giant Claw, The",Horror|Sci-Fi,4.0
+171,"€10,31",Portrait of Jennie,Drama|Fantasy|Mystery|Romance,4.4
+172,"€20,86",Chariots of the Gods (Erinnerungen an die Zukunft),Documentary,4.1
+173,"€10,31",Tenure,Comedy,4.6
+174,"€20,29",Cast a Giant Shadow,Adventure|War,2.6
+175,"€18,02",And the Ship Sails On (E la nave va),Comedy|War,2.7
+176,"€26,05",Route Irish,Drama|Thriller,3.7
+177,"€16,45",Solyaris,Drama|Sci-Fi,3.5
+178,"€38,44",Dawn of the Dead,Action|Drama|Horror,2.1
+179,"€30,40",Conflict,Drama|Film-Noir,2.4
+180,"€32,80","Resurrection, A",Horror|Thriller,4.2
+181,"€27,23",Deuces Wild,Drama,3.9
+182,"€29,08","Princess Blade, The (Shura Yukihime)",Action|Sci-Fi,4.1
+183,"€10,95",Fatal Attraction,Drama|Thriller,3.7
+184,"€19,32",Jonah: A VeggieTales Movie,Animation|Children|Musical,3.1
+185,"€35,46",Heaven Can Wait,Comedy|Fantasy|Romance,3.2
+186,"€27,52",The Distance,(no genres listed),4.9
+187,"€30,93",Dangerous Corner,Mystery,2.9
+188,"€21,04","Man with the Iron Fists, The",Action|Adventure|Crime,2.8
+189,"€17,36",Won't Back Down,Drama,2.2
+190,"€29,68",Captain Phillips,Adventure|Drama|Thriller|IMAX,4.2
+191,"€17,36",Desire Under the Elms,Drama|Romance,2.5
+192,"€27,85",Mad Dog and Glory,Comedy|Drama|Romance,4.1
+193,"€14,76",Deadline (Sprängaren),Drama|Thriller,3.8
+194,"€18,04",Rudolph the Red-Nosed Reindeer,Animation|Children|Fantasy,4.8
+195,"€24,32",Martha,Drama|Thriller,4.5
+196,"€26,67","Five People You Meet in Heaven, The",Drama|Fantasy,3.0
+197,"€14,66","Fourth Kind, The",Horror|Mystery|Sci-Fi|Thriller,3.5
+198,"€25,43",Intouchables,Comedy|Drama,4.9
+199,"€16,39",Primary Colors,Comedy|Drama,3.9
+200,"€24,44",Quiet Flows the Don (Tikhiy Don),Drama|War,2.1
+201,"€37,16",Town Without Pity,Drama,3.4
+202,"€21,72","Clockmaker of St. Paul, The (L'horloger de Saint-Paul)",Crime|Drama,3.9
+203,"€38,95",All the Little Animals,Drama|Thriller,2.6
+204,"€26,67",Manakamana,Documentary,2.3
+205,"€36,15",Waltzes from Vienna,Comedy|Musical,4.7
+206,"€15,37","Danse: The Paris Opera Ballet, La (La Danse - Le ballet de l'Opéra de Paris)",Documentary,4.3
+207,"€22,02","Mean Season, The",Crime|Thriller,3.3
+208,"€26,96",Seven Brides for Seven Brothers,Comedy|Musical|Romance|Western,4.9
+209,"€12,97",Amador,Drama,2.9
+210,"€27,60",Good Neighbor Sam,Comedy,2.6
+211,"€39,72","Babe Ruth Story, The ",Drama,3.8
+212,"€21,53",The Salt of the Earth,Documentary,4.6
+213,"€10,12",Wild Oranges,Drama|Romance,3.9
+214,"€34,38",GoldenEye,Action|Adventure|Thriller,2.3
+215,"€36,30",Miranda,Comedy|Fantasy|Romance,3.7
+216,"€36,96","Who Are you Polly Maggoo (Qui êtes-vous, Polly Maggoo?)",Comedy,4.7
+217,"€39,79",Down to Earth,Drama,2.6
+218,"€17,03",Viva María!,Adventure|Comedy|Western,4.0
+219,"€30,56",Welcome to the Jungle,Horror,3.9
+220,"€34,13",How to Beat the High Cost of Living,Comedy,3.6
+221,"€32,27",Children On Their Birthdays,Drama,4.3
+222,"€33,74","Great Buck Howard, The",Comedy,3.4
+223,"€38,55",Cavalcade,Drama|Romance|War,3.7
+224,"€30,06",Scanners II: The New Order,Action|Horror|Sci-Fi,2.9
+225,"€19,14",Voyager (Homo Faber),Drama,4.7
+226,"€23,83","Lone Ranger, The",Adventure|Western,2.4
+227,"€26,92",Endangered Species,Mystery|Sci-Fi|Thriller,4.4
+228,"€11,82",Just Like a Woman,Drama,4.3
+229,"€15,83",DMT: The Spirit Molecule,Documentary,2.4
+230,"€18,83",It's a Gift,Comedy,3.2
+231,"€32,64",No Nukes,Documentary|Musical,2.7
+232,"€26,27",One Week,Comedy,2.7
+233,"€25,55","Punk Singer, The",Documentary,3.6
+234,"€15,38",Wichita,Action|Romance|Western,4.6
+235,"€18,56",Schmatta: Rags to Riches to Rags,Documentary,2.1
+236,"€27,33",Target,Action|Drama,3.9
+237,"€32,99",Happy Christmas,Comedy|Drama,2.1
+238,"€20,64",Clone (Womb),Drama|Romance|Sci-Fi,3.4
+239,"€34,48",Boys,Drama,4.8
+240,"€36,48",Constantine's Sword,Documentary,4.7
+241,"€20,05",Steel Toes,Crime|Drama,2.9
+242,"€17,61",Guts (Agallas),Action|Crime,3.5
+243,"€23,97",Paris,Comedy|Drama|Romance,2.2
+244,"€11,23",Mammoth (Mammut),Drama,2.2
+245,"€13,35",Everybody's Fine (Stanno tutti bene),Comedy|Drama,4.8
+246,"€15,45",Tension at Table Rock,Western,4.5
+247,"€25,13",Bloody Birthday,Horror|Thriller,2.9
+248,"€31,81",Thomas and the Magic Railroad,Children,4.6
+249,"€35,14",Together (Tillsammans),Comedy|Drama|Romance,2.7
+250,"€28,76",Justice League: Throne of Atlantis,Action|Animation,2.1
